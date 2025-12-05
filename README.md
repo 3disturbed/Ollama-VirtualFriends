@@ -32,7 +32,7 @@ $env:OLLAMA_ORIGINS="*"; ollama serve
 ```
 
 ### 2. Open the App
-Open `index.html` in your browser.
+Open `index.html` in your browser. Or use the github pages link to not worry about CORS.
 
 ## Usage
 
@@ -41,4 +41,5 @@ Open `index.html` in your browser.
 3.  **Chat**: Click on a friend to start chatting.
 4.  **Profile**: Click "Profile / Memory" in a chat to see what the AI remembers about you or to edit their personality.
 5.  **Groups**: Click the Group icon  to create a group chat with selected friends.
+
 
